@@ -1,0 +1,22 @@
+021021
+AAAAAAAAAAAAAAAAAAAAA
+A    R AAAAAAA R    A
+A  A      R      A  A
+A  AAAAAAAAAAAAAAA  A
+A         A         A
+A  AAAA   A   AAAA  A
+A  AAAA   A   AAAA  A
+A         A         A
+A  AAAAA     AAAAA  A
+A  AAAAAA L AAAAAA  A
+A       AA AA       A
+A  AAA  AAAAA  AAA  A
+A        AAA        A
+A                A  A
+A  A  AAA K AAA  A  A
+A  A             A  A
+A  AAAAAAAAAAAAAAA  A
+A  AA     B     AA  A
+A        AAA        A
+A   B  AAAAAAA  B   A
+AAAAAAAAAAAAAAAAAAAAA

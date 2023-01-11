@@ -1,0 +1,25 @@
+# Blender MTL File: 'wooden watch tower2.blend'
+# Material Count: 1
+
+newmtl ground
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.397386 0.397386 0.397386
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd image\\Steel_C.tga
+map_Ks image\\Hotel_Hous_AO.tga
+
+newmtl hotel_glas
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.150000
+illum 1
+map_Kd image\\REF1.tga

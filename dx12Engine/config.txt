@@ -1,0 +1,6 @@
+screenWidth 1240
+screenHeight 768
+hertz 60
+maxString 100
+windowed 1
+mouseSensitivity 0.125

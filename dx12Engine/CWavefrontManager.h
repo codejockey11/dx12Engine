@@ -1,0 +1,31 @@
+#pragma once
+
+#include "standard.h"
+
+#include "CErrorLog.h"
+#include "CLinkList.h"
+#include "CWavefront.h"
+
+class CWavefrontManager
+{
+public:
+
+	CWavefrontManager();
+
+	CWavefrontManager(CErrorLog* errorLog);
+
+	~CWavefrontManager();
+
+
+	CWavefront* Create(const char* filename, const char* materialname);
+
+	CWavefront* Get(const char* filename);
+
+	void Delete(const char* filename);
+
+private:
+
+	CErrorLog* m_errorLog;
+
+	CLinkList<CWavefront>* m_models;
+};
